@@ -1,11 +1,7 @@
-# AprendendoJava
+# Exercicio proposto:
+
+Fazer a leitura de 3 times diferentes e exibir as possiveiscombinacoes de partidas sem que repita um time contra ele mesmo.
+ 
 Criei o repositório para acompanhar minha evolução na linguagem Java!
 
-Criarei uma pasta para cada assunto novo que eu for aprendendo, dentre eles:
-
-- If/Else
-- For/While
-- Array
-- Trabalho com classe
-
-... entre muitos outros.
+Este é o meu primeiro exercício de array no GitHub
